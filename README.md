@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Vishwa
-- 👀 I’m interested in ... learning to code 
-- 🌱 I’m currently learning ... html , css , javascript , python , DSA
+- 🌱 I’m currently learning ... html , CSS, javascript, python, DSA, ReactJS
 
 <!---
 vishwadoshi-19/vishwadoshi-19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
