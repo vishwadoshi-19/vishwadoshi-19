@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🌱 I’m currently learning NextJS , Microservices , AWS<br>💬 Ask me about Javascript , NodeJS , ReactJs<br>📫 How to reach me vishwadoshi19@gmail.com<br>📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Y-Ww_o2_AhJecHkLgag6CYbRpdb4c07g/view?usp=sharing)
+🌱 I’m currently learning NextJS , Microservices , AWS<br>💬 Ask me about Javascript , NodeJS , ReactJs<br>📫 How to reach me vishwadoshi19@gmail.com<br>📄 Know about my experiences [Resume](https://flowcv.com/resume/niu3241mlw)
 
 
 ## 🌐 Socials:
